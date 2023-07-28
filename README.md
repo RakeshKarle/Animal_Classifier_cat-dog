@@ -1,4 +1,4 @@
-![IMG_20230419_205905](https://github.com/RakeshKarle/Animal_Classifier_cat-dog/assets/132128728/65237411-98cb-4a27-ac46-4ba0462e4fb2)# Animal_Classifier_cat-dog
+# Animal_Classifier_cat-dog
 
 The project involves building a CNN using Keras for cat vs. dog image classification.The model consists of convolutional layers, max-pooling, dropout, and dense layers. It is trained using the Adam optimizer and binary cross-entropy loss. ImageDataGenerator is used for data augmentation. The model achieves high accuracy in classifying new images as cats or dogs.
 
